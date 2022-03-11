@@ -1207,12 +1207,12 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
-		ul.grid-icons .icon {
+		/* ul.grid-icons .icon {
 			display: block;
 			position: relative;
 			width: 100%;
 			text-align: center;
-		}
+		} */
 		ul.grid-icons #devicon {
 			display: block;
 			position: relative;
@@ -1220,7 +1220,7 @@ input, select, textarea {
 			text-align: center;
 		}
 
-			ul.grid-icons .icon:before {
+			/* ul.grid-icons .icon:before {
 				display: block;
 				width: 6rem;
 				height: 6rem;
@@ -1230,7 +1230,7 @@ input, select, textarea {
 				font-size: 3rem;
 				margin: 0 auto;
 				text-align: center;
-			}
+			} */
 			ul.grid-icons #devicon:before {
 				display: block;
 				width: 6rem;
@@ -1242,10 +1242,10 @@ input, select, textarea {
 				margin: 0 auto;
 				text-align: center;
 			}
-
+/* 
 				body.is-ie ul.grid-icons .icon:before {
 					line-height: 2.375;
-				}
+				} */
 				body.is-ie ul.grid-icons #devicon:before {
 					line-height: 2.375;
 				}
